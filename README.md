@@ -51,11 +51,13 @@ The Job Portal is a web application that connects students with recruiters, faci
    cd job-portal
    
 2.Install backend dependencies & Start the backend server:
+  ```bash
   cd backend
   npm install
   npm start
   
 3.Install frontend dependencies & Start the frontend application:
+  ```bash
   cd frontend
   npm install
   npm start
